@@ -1,5 +1,4 @@
 ## Trending Movies
-<div style="width:100%;height:0;padding-bottom:135%;position:relative;"><iframe src="https://giphy.com/embed/TTy5YmVmhmWhq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/80s-nintendo-TTy5YmVmhmWhq">via GIPHY</a></p>
 
 * Purpose of the app: This app was created to show a user friendly application on the movies that are being most watched currently, you can even search for a movie to see what rating it has gotten by other users 
 
